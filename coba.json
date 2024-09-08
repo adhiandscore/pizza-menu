@@ -1,0 +1,25 @@
+[
+    {
+    "nama" : "Adhi",
+    "umur" : 32,
+    "nim" : "24112949",
+    "lulus" : true,
+    "hobi" : ["Coding", "gaming", "nonton film"],
+    "pembimbing skripsi" : {
+        "pembimbing 1" : "pak hid",
+        "pembimbing 2" : "pak afiq"
+    }
+    },
+
+    {
+        "nama" : "Adhi",
+        "umur" : 32,
+        "nim" : "24112949",
+        "lulus" : true,
+        "hobi" : ["Coding", "gaming", "nonton film"],
+        "pembimbing skripsi" : {
+            "pembimbing 1" : "pak hid",
+            "pembimbing 2" : "pak afiq"
+        }
+    }
+]
